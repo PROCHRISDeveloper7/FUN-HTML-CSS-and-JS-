@@ -10,5 +10,6 @@ Uses javascript and css to animate "rain drops" on a blue background.
 
 WHAT I LEARNED
 
-•	Finally putting CSS animations to use! 
+•	Finally putting CSS animations to use!
+
 •	Combining Javascript and CSS together
